@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\Работа\ABNK\Task3\Task3\obj\Debug\Task3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\Работа\ABNK\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Работа\ABNK\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\ADMIN\Desktop\Работа\ABNK\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\ADMIN\Desktop\Работа\ABNK\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\ADMIN\Desktop\Работа\ABNK\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\ADMIN\Desktop\Работа\ABNK\Task3\Task3\obj\Debug\Task3.pdb
